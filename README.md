@@ -1,4 +1,4 @@
-OlympicMedalAnalysis_Visualization
+InfoVis-MedalAnalysis
 =====================
 
 ## Overview:
